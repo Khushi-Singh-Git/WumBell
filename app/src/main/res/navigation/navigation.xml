@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation"
+    app:startDestination="@id/connectedFragment">
+    <fragment
+        android:id="@+id/connectedFragment"
+        android:name="com.example.wumbell.screens.workout.ConnectedFragment"
+        android:label="connectedFragment" >
+        <action
+            android:id="@+id/action_connectedFragment_to_mainPageFragment"
+            app:destination="@id/mainPageFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/mainPageFragment"
+        android:name="com.example.wumbell.screens.workout.mainPage.MainPageFragment"
+        android:label="MainPageFragment" >
+        <argument
+            android:name="equipment"
+            app:argType="integer"/>
+        <argument
+            android:name="body"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_mainPageFragment_to_menuPageFragment"
+            app:destination="@id/menuPageFragment"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/menuPageFragment"
+        android:name="com.example.wumbell.screens.workout.menu.MenuPageFragment"
+        android:label="MenuPageFragment" >
+        <argument
+            android:name="index"
+            app:argType="integer" />
+        <argument
+            android:name="equip"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_menuPageFragment_to_timer"
+            app:destination="@id/timer"
+            app:enterAnim="@android:anim/fade_in"
+            app:exitAnim="@android:anim/fade_out"
+            app:popEnterAnim="@android:anim/fade_in"
+            app:popExitAnim="@android:anim/fade_out"/>
+    </fragment>
+    <fragment
+        android:id="@+id/timer"
+        android:name="com.example.wumbell.screens.timer.Timer"
+        android:label="Timer" >
+        <argument
+            android:name="count"
+            app:argType="integer" />
+    </fragment>
+</navigation>
