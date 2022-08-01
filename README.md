@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872520-f995cfaf-c981-4fbc-84a0-f9963ffa5b19.png)
 
-## Our Solution
+## :key: Our Solution
 
 ![image](https://user-images.githubusercontent.com/107871742/181872531-a0f96a2d-3dd5-438e-94ae-8355bf636134.png)
 
