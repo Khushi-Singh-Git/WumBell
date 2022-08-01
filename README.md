@@ -14,7 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872539-97312e8f-64a9-4955-877a-21b64f670c30.png)
 
-## The Wumble App
+## :iphone: The Wumble App
 
 ![image](https://user-images.githubusercontent.com/107871742/181872549-2f2074f8-286b-4c07-a34f-9965ba392d71.png)
 
