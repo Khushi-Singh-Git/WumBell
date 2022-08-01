@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872531-a0f96a2d-3dd5-438e-94ae-8355bf636134.png)
 
-## System Architecture
+## :pencil2: System Architecture
 
 ![image](https://user-images.githubusercontent.com/107871742/181872539-97312e8f-64a9-4955-877a-21b64f670c30.png)
 
