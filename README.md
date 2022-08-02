@@ -23,8 +23,7 @@
 ![image](https://user-images.githubusercontent.com/107871742/181872560-a4a05b3c-e8e6-4657-b56f-936ac24d6581.png)
 ![image](https://user-images.githubusercontent.com/107871742/181872566-1717b09e-05b1-4f65-8954-9f284bf77893.png)
 
-## Target Market  
-
+## :star: Target Market  
 
 ![image](https://user-images.githubusercontent.com/107871742/181872573-cd92915b-280e-4f10-b213-feb2385b1c7f.png)
 
