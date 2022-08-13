@@ -60,7 +60,7 @@ Along with the QR code feature, we aim at installing a piece of hardware called 
 Usually, people are aware of only a few sets of exercises limited to just one body part but the Wumbell app provides the user with multiple types of exercises for different body parts from the same equipment.
 
 
-## How we built it
+## :wrench: How we built it
 -The Hardware prototype (Wumbell tag) is built around NodeMCU which comes with an inbuilt wi-fi module to transfer data easily and an ADXL sensor that measures acceleration forces around the 3-axises.
 -We used Figma for designing UI/UX for our app and components for our video. 
 -Android App written in Kotlin which uses ARCore and Sceneform SDK for Android for Augmented reality.
