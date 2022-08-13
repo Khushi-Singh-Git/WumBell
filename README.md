@@ -70,7 +70,7 @@ Usually, people are aware of only a few sets of exercises limited to just one bo
 
 Give a ⭐ if you liked this project!
 
-## Contributions
+## :trophy: Contributions
 
 - Feel Free to Open a PR/Issue for any feature or bug(s).
 - Make sure you follow the community guidelines!
@@ -81,7 +81,7 @@ Give a ⭐ if you liked this project!
 
 Before you begin, you should have already downloaded the Android Studio SDK and set it up correctly. You can find a guide on how to do this here: [Setting up Android Studio](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 
-## Building the Code
+## :book: Building the Code
 
 1. Clone the repository.
 
