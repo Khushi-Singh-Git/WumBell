@@ -66,7 +66,7 @@ Usually, people are aware of only a few sets of exercises limited to just one bo
 -Android App written in Kotlin which uses ARCore and Sceneform SDK for Android for Augmented reality.
 
 
-## Show your support
+## :star2: Show your support
 
 Give a ⭐ if you liked this project!
 
