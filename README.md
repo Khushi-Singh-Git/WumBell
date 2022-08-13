@@ -77,7 +77,7 @@ Give a ⭐ if you liked this project!
 - Feel free to open an issue to ask a question/discuss anything about Wumbell.
 - Have a feature request? Open an Issue!
 
-## Development Setup
+## :speech_balloon: Development Setup
 
 Before you begin, you should have already downloaded the Android Studio SDK and set it up correctly. You can find a guide on how to do this here: [Setting up Android Studio](http://developer.android.com/sdk/installing/index.html?pkg=studio).
 
