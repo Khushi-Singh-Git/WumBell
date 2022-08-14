@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872620-2c25506c-0af3-4f44-8bbf-92ec701e58ad.png)
 
-## Business Model
+## :triangular_flag_on_post: Business Model
 
 ![image](https://user-images.githubusercontent.com/107871742/181872633-69d62045-eb03-477e-902f-62c07ad3217b.png)
 
