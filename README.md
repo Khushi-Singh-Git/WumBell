@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/107871742/181872667-b6e152c1-f0e8-467d-9880-d8a388038585.png)
 
 
-## Inspiration
+## :cherry_blossom: Inspiration
 Usually, during Gym Workouts, people are prone to injuries due to a lack of guidance about the correct form or posture of any particular exercise. In most cases, it's problematic for beginners to work out properly or they get trapped by myths and overload themselves leading to long-term injuries. Generally, people are not able to keep a track of their workout and hence under or over train themselves which usually hampers their Fitness goals. These issues inspired us to build *Wumbell* which is an AR-powered tracking service
 
 ## :question: What it does
