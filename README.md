@@ -1,4 +1,4 @@
-# :closed_lock_with_key: WumBell: Dumbell for Women
+# :closed_lock_with_key: WumBell: Dumbell for Women 
 
 ![image](https://user-images.githubusercontent.com/107871742/181872513-65c3c932-00aa-4037-8ec4-f7a19402b0ce.png)
 
@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872633-69d62045-eb03-477e-902f-62c07ad3217b.png)
 
-## Our Team
+## :snowman: Our Team
 
 ![image](https://user-images.githubusercontent.com/107871742/181872649-ffacd044-3b21-488f-921e-807a5ae4582a.png)
 
