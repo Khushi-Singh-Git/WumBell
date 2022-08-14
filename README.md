@@ -27,7 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/107871742/181872573-cd92915b-280e-4f10-b213-feb2385b1c7f.png)
 
-## Key Competitors
+## :office: Key Competitors
 
 ![image](https://user-images.githubusercontent.com/107871742/181872620-2c25506c-0af3-4f44-8bbf-92ec701e58ad.png)
 
