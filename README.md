@@ -47,7 +47,7 @@
 ## Inspiration
 Usually, during Gym Workouts, people are prone to injuries due to a lack of guidance about the correct form or posture of any particular exercise. In most cases, it's problematic for beginners to work out properly or they get trapped by myths and overload themselves leading to long-term injuries. Generally, people are not able to keep a track of their workout and hence under or over train themselves which usually hampers their Fitness goals. These issues inspired us to build *Wumbell* which is an AR-powered tracking service
 
-## What it does
+## :question: What it does
 These days everything is getting IOTfyed, hence the idea is to IOTfy Gym equipment in Gyms as well as at home.
 
 *3-D AR model to help beginners learn the right form to use different gym equipment and their exercises *:  
