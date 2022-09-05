@@ -83,7 +83,7 @@ Before you begin, you should have already downloaded the Android Studio SDK and 
 
 ## :book: Building the Code
 
-1. Clone the repository.
+1. Clone the Repository.
 
 2. Open Android Studio.
 
