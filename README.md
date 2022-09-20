@@ -1,4 +1,4 @@
-# :closed_lock_with_key: WumBell: Dumbell for Women 
+# :zap: WumBell: Dumbell for Women 
 
 ![image](https://user-images.githubusercontent.com/107871742/181872513-65c3c932-00aa-4037-8ec4-f7a19402b0ce.png)
 
